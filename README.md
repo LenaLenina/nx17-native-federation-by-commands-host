@@ -15,3 +15,5 @@ npx nx g @angular-architects/native-federation:ng-add
 npx nx serve host -o
 
 npx nx build host
+
+https://host-angular-17-nx-native-federation.netlify.app/
