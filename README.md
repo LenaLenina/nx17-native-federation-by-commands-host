@@ -12,6 +12,10 @@ npm install @angular-architects/native-federation
 
 npx nx g @angular-architects/native-federation:ng-add
 
+ниже - альтернатива
+
+npx nx generate @angular-architects/native-federation:init --project=central-administration --port=4200 --type=host
+
 npx nx serve host -o
 
 npx nx build host
