@@ -21,3 +21,5 @@ npx nx serve host -o
 npx nx build host
 
 https://host-angular-17-nx-native-federation.netlify.app/
+
+https://elegant-belekoy-ff4b09.netlify.app/
